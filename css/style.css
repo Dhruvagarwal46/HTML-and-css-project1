@@ -1,0 +1,39 @@
+img{
+    width: 200px;
+    border-radius: 100px;
+    padding: 25px;
+}
+body{
+    background-color: pink;
+}
+.container{
+    border: 10px;
+    width: 900px;
+    margin: auto;
+    outline-style: solid;
+    padding: 15px;
+    background-color: white;
+    outline-width: 10px;
+}
+.intro{
+  display: flex;  
+  justify-content: space-between;
+  
+
+}
+.intro h2{
+    font-size: 60px;
+    font-weight: bold;
+}
+.Biographies{
+    padding: 10px;
+}
+h1{
+    font-size: 70px;
+}
+.box{
+    padding: 10px;
+}
+.content{
+    padding: 10px;
+}
